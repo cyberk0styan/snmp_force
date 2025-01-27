@@ -1,0 +1,10 @@
+./xer_snmp_force_pc_plotters.sh 10.30.1.1 "1 floor" 10.30.2.1 "Xerox6204 1 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.2 "1 floor" 10.30.2.2 "Xerox6204 1 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.3 "2 floor" 10.30.2.3 "Xerox6204 2 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.4 "2 floor" 10.30.2.4 "Xerox6204 2 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.5 "3 floor" 10.30.2.5 "Xerox6204 3 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.5 "3 floor" 10.30.2.6 "Xerox6204 3 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.7 "4 floor" 10.30.2.7 "Xerox6204 4 floor"
+./xer_snmp_force_pc_plotters.sh 10.30.1.8 "4 floor" 10.30.2.8 "Xerox6204 4 floor"
+#script_path;ip1;note1;ip2;note2
+#script_path;ip1;note1
